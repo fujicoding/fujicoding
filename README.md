@@ -23,3 +23,13 @@ Webサイトのコーディングを承ります。（HTML / CSS / jQuery）
 - jQueryによる簡単な動きの実装（アニメーション、ハンバーガーメニュー、フェードなど）  
 ※モーダル、スライダーなども可
 
+---
+
+### ▼ポートフォリオサイトはこちら  
+[https://works.fujicoding.com/my_profile/](https://works.fujicoding.com/my_profile/)
+
+### ▼ブログ（Web制作×副業×朝活）  
+[https://fujicoding.com](https://fujicoding.com)
+
+### ▼note（学習記録や気づき）  
+[https://note.com/fujiko4601](https://note.com/fujiko4601)
