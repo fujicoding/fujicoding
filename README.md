@@ -1,16 +1,25 @@
-## Hi there 👋
+\デザイナーさん歓迎◎ コーディングだけ外注したい方に/
 
-<!--
-**fujicoding/fujicoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ご覧いただきありがとうございます。  
+フジコーディングと申します。
 
-Here are some ideas to get you started:
+Webサイトのコーディングを承ります。（HTML / CSS / jQuery）  
+「デザインはあるけど、コーディングは任せたい」そんな方のために、  
+丁寧で見やすいコーディングをご提供します。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 対象
+- ホームページ
+- LP（ランディングページ）
+
+### ☆こんな方におすすめ
+- Figma / XD / Photoshop などのデザインデータは用意済み
+- デザインは自作、コーディング外注したい
+
+### 対応内容
+- HTML / CSS を使った静的コーディング
+- レスポンシブ対応（PC・スマホ最適化）
+- jQueryによる簡単な動きの実装（アニメーション、ハンバーガーメニュー、フェードなど）  
+※モーダル、スライダーなども可
+
